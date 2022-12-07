@@ -1,0 +1,21 @@
+Credit History,Debt,Collatoral,Risk
+bad,high,no,high
+unknown,high,no,high
+unknown,low,no,medium
+unknown,low,no,high
+unknown,low,No,low
+unknown,low,yes,low
+bad,low,no,high
+bad,low,yes,medium
+good,low,no,low
+good,high,yes,low
+good,high,no,high
+good,high,no,medium
+good,high,no,low
+bad,high,no,high
+bad,low,no,high
+good,low,no,low
+good,high,no,medium
+bad,high,no,high
+unknown,high,no,high
+unknown,low,No,low
